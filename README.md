@@ -22,3 +22,23 @@ Download the `.zip` file from the **[Releases]** tab on the right, extract it, a
 
 ```bash
 bash install.sh
+
+### Option 2: Compiling from Source
+If you cloned this repository or downloaded the source code:
+```bash
+# 1. Compile and install (Automatic)
+bash install.sh
+
+# 2. Or compile manually
+make run
+
+### Dependencies
+The installer attempts to handle everything automatically, but under the hood, this program requires:
+- gcc (Compiler)
+- make (Build system)
+- alsa-utils (For aplay sound output)
+
+### How to Uninstall
+Simply run the uninstallation script located in the project folder:
+```bash
+bash desinstalar.sh
