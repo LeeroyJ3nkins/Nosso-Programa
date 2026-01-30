@@ -1,24 +1,24 @@
-# ☭ Nosso Programa
+# ☭ Our Program
 
-> "O Linux é NOSSO!"
+> "The C is OURS!"
 
-Um tributo em C à cultura do Software Livre e aos memes. Este programa exibe a bandeira soviética no terminal enquanto reproduz o hino via síntese de áudio bruta (RAW/PCM). Ps: NÃO sou comunista.
+A meme using C and Linux to express gratitude for the Free Software culture. This program renders the Soviet flag in the terminal while playing the Soviet national anthem through raw audio synthesis (RAW/PCM) - no MP3 files involved, just pure mathematics and sound waves. PS: I am NOT a communist.
 
-![C](https://img.shields.io/badge/Linguagem-C-blue)
+![C](https://img.shields.io/badge/Language-C-blue)
 ![Linux](https://img.shields.io/badge/Platform-Linux-yellow)
 ![License](https://img.shields.io/badge/License-GPL-red)
 
-## Funcionalidades
+## Features
 
-- **Áudio Sintetizado:** Gera ondas sonoras matematicamente (sem arquivos mp3 externos).
-- **Gráficos ASCII:** Renderização da bandeira no terminal.
-- **Design Modular:** Código estruturado com Headers e implementação separada.
-- **Instalador Universal:** Script inteligente que detecta a distribuição (Debian, Arch, Fedora, etc.) e instala as dependências automaticamente.
+- **Synthesized Audio:** Generates sound waves mathematically using C standard libraries.
+- **ASCII Graphics:** Visual rendering of the flag directly in the terminal.
+- **Modular Design:** Professional code structure (Header/Source separation).
+- **Universal Installer:** Smart script that automatically detects your distribution (Debian, Arch, Fedora, Gentoo, etc.) and installs necessary dependencies.
 
-## Instalar
+## How to Install & Run
 
-### Opção 1: Via Pacote (Recomendado)
-Baixe o arquivo `.zip` na aba [Releases], extraia e rode (executando install.sh, ou via terminal):
+### Option 1: Via Release Package (Recommended)
+Download the `.zip` file from the **[Releases]** tab on the right, extract it, and run:
 
 ```bash
 bash install.sh
