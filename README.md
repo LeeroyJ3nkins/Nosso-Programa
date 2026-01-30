@@ -15,7 +15,7 @@ Um tributo em C à cultura do Software Livre e aos memes. Este programa exibe a 
 - **Design Modular:** Código estruturado com Headers e implementação separada.
 - **Instalador Universal:** Script inteligente que detecta a distribuição (Debian, Arch, Fedora, etc.) e instala as dependências automaticamente.
 
-## Como Instalar e Rodar
+## Como Instalar
 
 ### Opção 1: Via Pacote (Recomendado)
 Baixe o arquivo `.zip` na aba [Releases], extraia e rode (executando install.sh, ou via terminal):
