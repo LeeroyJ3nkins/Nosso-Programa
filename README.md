@@ -18,7 +18,7 @@ A meme using C and Linux to express gratitude for the Free Software culture. Thi
 ## How to Install & Run
 
 ### Option 1: Via Release Package (Recommended)
-Download the `.zip` file from the **[Releases]** tab on the right, extract it, and run:
+Download the `.zip` file from the **[Releases]** tab on the right, extract it, and run it by right-clicking or using the command prompt:
 
 ```bash
 bash install.sh
